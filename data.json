@@ -1,32 +1,40 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
-  "ownerPhone": "081-234-5678",
+  "shopName": "Thana IT",
+  "owner": "Thanaphum",
+  "studentId": "6680703319",
+  "ownerPhone": "082-123-1212",
   "products": [
     {
       "id": 1,
-      "name": "ลาเต้เย็น",
-      "price": 55,
-      "emoji": "🥤",
+      "name": "Mechanical Keyboard RGB",
+      "price": 2490,
+      "emoji": "⌨️",
       "available": true,
-      "tags": ["กาแฟ", "เย็น"]
+      "tags": ["Gaming", "Wireless","ขายดี"]
     },
     {
       "id": 2,
-      "name": "ชาไทย",
-      "price": 45,
-      "emoji": "🧋",
+      "name": "Gaming Mouse ไร้สาย",
+      "price":1290,
+      "emoji": "🖱️",
       "available": true,
-      "tags": ["ชา", "เย็น", "ขายดี"]
+      "tags": ["Gaming", "Wireless"]
     },
     {
       "id": 3,
-      "name": "ครัวซองต์",
-      "price": 60,
-      "emoji": "🥐",
+      "name": "หูฟัง Bluetooth Noise Cancelling",
+      "price": 3590,
+      "emoji": "🎧",
       "available": false,
-      "tags": ["เบเกอรี่"]
+      "tags": ["Audio", "Wireless"]
+    },
+    {
+      "id": 4,
+      "name": "ขาตั้งจอมอนิเตอร์แบบดูโอ้",
+      "price": 1490,
+      "emoji": "🖥️",
+      "available": true,
+      "tags": ["Gadget", "Setup", "สินค้าใหม่"]
     }
   ]
 }
